@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Libre Baskerville', serif;
+}
+.intro{
+  height: 100vh;
+}
+
+#nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin: 2rem;
+  background-color: #1a2456;
+  color: #f0efed;
+}
+ul.nav-left{
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+ul.nav-right{
+
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+box-icon{
+
+}
+
+img{
+
+  display: block;
+  max-width: 100%;
+}
